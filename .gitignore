@@ -15,3 +15,5 @@ TESTS-*.xml
 **/lerna-debug.log
 
 test/cypress/integration/examples
+test/cypress/testresult.xml
+test/cypress/videos/router/default.spec.js.mp4
